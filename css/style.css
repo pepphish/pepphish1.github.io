@@ -1,0 +1,13 @@
+.box2{
+    color:red;
+    }
+    
+    .container{
+        width: 80%;
+        background-color: rgb(200, 255, 255);
+        margin: 0 auto;
+    }
+    .box1{
+        border: 5px dashed rgb(200,200,200);
+        border-radius: 30px;
+    }
