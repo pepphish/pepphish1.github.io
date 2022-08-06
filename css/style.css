@@ -11,3 +11,15 @@
         border: 5px dashed rgb(200,200,200);
         border-radius: 30px;
     }
+    .block1{
+        display:flex;
+       
+        justify-content: space-around;
+
+        border: 5px dashed rgb(200,200,200);
+        
+        border-radius: 30px;
+
+
+
+    }
